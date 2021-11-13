@@ -1,4 +1,4 @@
-export const config = { // config
+export const config = { // config test
   'username': process.env.POSTGRES_USERNAME,
   'password': process.env.POSTGRES_PASSWORD,
   'database': process.env.POSTGRES_DB,
